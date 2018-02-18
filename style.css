@@ -4,9 +4,12 @@ h1 {
 }
 p {
    font-size: 18px;
+   font-family: "Century Gothic";
 }
 ul {
    font-size: 22px;
+    font-family: "Century Gothic";
+}
 }
  body {
     background-color: #F2F2F2
