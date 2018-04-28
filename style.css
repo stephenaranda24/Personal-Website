@@ -20,7 +20,7 @@ ul {
   padding: 18px 50px;
   position: relative;
   font-size: 20px;
-  <font color="black">
+  color: black;
   top: 0;
   width: 100%;
   z-index: 999;
