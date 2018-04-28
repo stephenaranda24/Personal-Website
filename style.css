@@ -13,3 +13,14 @@ ul {
  body {
         background-color: #F2F2F2
 }
+.navigation {
+  box-sizing: border-box;
+  background-color: #A3E4D7;
+  overflow: auto;
+  padding: 18px 50px;
+  position: relative;
+  font-size: 20px;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+}
