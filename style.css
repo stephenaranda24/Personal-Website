@@ -15,13 +15,12 @@ ul {
 }
 .navigation {
   box-sizing: border-box;
-  background-color: #FF7070;
+  background-color: #DF0303;
   overflow: auto;
   padding: 18px 50px;
   position: relative;
   font-size: 20px;
-  color: black;
-  top: 0;
+  color: black: 0;
   width: 100%;
   z-index: 999;
 }
