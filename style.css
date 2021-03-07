@@ -95,3 +95,7 @@ a:hover {
 .subnav:hover .subnav-content {
   display: block;
 }
+
+.topnav-right {
+  float: right;
+}
